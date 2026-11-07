@@ -1,0 +1,55 @@
+Frontend:
+
+- HTML5
+
+- CSS3
+
+- Bootstrap 5
+
+- Vanilla JavaScript
+
+- Bootstrap Icons
+
+- Jinja2 templates
+
+ 
+
+Backend:
+
+- Python 3
+
+- Flask
+
+- Flask Blueprints
+
+- Flask-Login
+
+- Flask-WTF for forms and CSRF protection
+
+- Flask-SQLAlchemy
+
+- Flask-Migrate
+
+- Werkzeug password hashing
+
+ 
+
+Database:
+
+- Supabase PostgreSQL
+
+ 
+
+Development and deployment:
+
+- Visual Studio Code
+
+- VS Code Build with Agent
+
+- Git and GitHub
+
+- A Python-compatible hosting provider with a free tier, if available
+
+
+
+
